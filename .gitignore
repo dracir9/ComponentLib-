@@ -1,0 +1,27 @@
+# KiCad generated files
+*.bak
+*.bck
+*.kicad_prl
+*.lck
+*.tmp
+*.temp
+*_autosave.*
+fp-info-cache
+sym-lib-table
+fp-lib-table
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Generic build or export outputs
+dist/
+build/
+out/
