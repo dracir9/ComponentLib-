@@ -131,7 +131,7 @@
 				)
 			)
 			(pin open_collector line
-				(at 19.05 -3.81 180)
+				(at 19.05 -1.27 180)
 				(length 2.54)
 				(name "GPOD"
 					(effects
@@ -149,7 +149,7 @@
 				)
 			)
 			(pin open_collector line
-				(at 19.05 -1.27 180)
+				(at 19.05 1.27 180)
 				(length 2.54)
 				(name "HVO2"
 					(effects
@@ -203,7 +203,7 @@
 				)
 			)
 			(pin open_collector line
-				(at 19.05 -8.89 180)
+				(at -19.05 -8.89 0)
 				(length 2.54)
 				(name "ALERT"
 					(effects
@@ -221,7 +221,7 @@
 				)
 			)
 			(pin input line
-				(at -19.05 -11.43 0)
+				(at -19.05 -13.97 0)
 				(length 2.54)
 				(name "ADD0"
 					(effects
@@ -239,7 +239,7 @@
 				)
 			)
 			(pin open_collector line
-				(at 19.05 8.89 180)
+				(at 19.05 11.43 180)
 				(length 2.54)
 				(name "VBUS_EN_SNK"
 					(effects
@@ -257,7 +257,7 @@
 				)
 			)
 			(pin open_collector line
-				(at 19.05 6.35 180)
+				(at 19.05 8.89 180)
 				(length 2.54)
 				(name "DISCH"
 					(effects
@@ -311,7 +311,7 @@
 				)
 			)
 			(pin open_collector line
-				(at 19.05 1.27 180)
+				(at 19.05 3.81 180)
 				(length 2.54)
 				(name "HVO1"
 					(effects
@@ -329,7 +329,7 @@
 				)
 			)
 			(pin power_out line
-				(at -5.08 -19.05 90)
+				(at 19.05 -13.97 180)
 				(length 2.54)
 				(name "VREG_1V2"
 					(effects
@@ -347,7 +347,7 @@
 				)
 			)
 			(pin power_out line
-				(at 5.08 -19.05 90)
+				(at 19.05 -11.43 180)
 				(length 2.54)
 				(name "VREG_2V7"
 					(effects
