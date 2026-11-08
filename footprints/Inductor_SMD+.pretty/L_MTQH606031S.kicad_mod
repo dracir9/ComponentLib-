@@ -1,0 +1,254 @@
+(footprint "L_MTQH606031S"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Inductor, MetalLions, MTQH606031, 6.2x6.0x3.1mm, (https://www.lcsc.com/datasheet/C51883190.pdf)")
+	(tags "6060")
+	(property "Reference" "REF**"
+		(at 0 -3.95 0)
+		(layer "F.SilkS")
+		(uuid "d34602da-9d36-4dd4-b943-c649bc795634")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "L_MTQH606031S"
+		(at 0 3.95 0)
+		(layer "F.Fab")
+		(uuid "927494a9-0cb7-48b1-a183-f0fc2bff03c6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "34ca9bdd-fe5a-46da-9f8f-2edbb17a63e5")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a77975e7-5da6-414d-9f13-6a46bd0093d3")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "KiLib_Generator" "inductor/SMD"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "a62d1a61-7016-4c4a-8b62-806f8c022957")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -3.11 -3.11)
+		(end 3.11 -3.11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "adccb5e9-2cb3-4b4a-92e7-dcce60bc61c6")
+	)
+	(fp_line
+		(start 3.11 3.11)
+		(end -3.11 3.11)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1206e260-e2e2-450c-80a2-bc249922092e")
+	)
+	(fp_line
+		(start -3.55 -3.1)
+		(end -3.25 -3.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "541507c7-3e1c-462f-9223-a519d3f7a1ea")
+	)
+	(fp_line
+		(start -3.55 3.1)
+		(end -3.55 -3.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "65c52ed1-918f-4be1-bf7d-2c639b20b5f3")
+	)
+	(fp_line
+		(start -3.25 -3.25)
+		(end 3.25 -3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ecf52e44-a07a-4a31-8b8b-05b0cff17c1f")
+	)
+	(fp_line
+		(start -3.25 -3.1)
+		(end -3.25 -3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5a523000-10e9-49d7-b5c2-02b3e1faed29")
+	)
+	(fp_line
+		(start -3.25 3.1)
+		(end -3.55 3.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "82fcf4e8-0565-4ad0-b4f4-4ef18b32d63e")
+	)
+	(fp_line
+		(start -3.25 3.25)
+		(end -3.25 3.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0b5e51b0-5e27-43d8-bb08-96c9def325d8")
+	)
+	(fp_line
+		(start 3.25 -3.25)
+		(end 3.25 -3.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b6f83dbd-2c07-49b7-8ed3-3a4cb5f3772f")
+	)
+	(fp_line
+		(start 3.25 -3.1)
+		(end 3.55 -3.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6424f152-d28e-4242-9890-65e0a9010ced")
+	)
+	(fp_line
+		(start 3.25 3.1)
+		(end 3.25 3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "69b50bf3-24c9-45ab-ab45-2ab4ce712d56")
+	)
+	(fp_line
+		(start 3.25 3.25)
+		(end -3.25 3.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2b8500db-1aa9-4a21-b0e0-aa2c54f2bb60")
+	)
+	(fp_line
+		(start 3.55 -3.1)
+		(end 3.55 3.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "04c88792-6014-4659-b9a5-711f7a97ae87")
+	)
+	(fp_line
+		(start 3.55 3.1)
+		(end 3.25 3.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0ebfba8a-7950-47c0-92b0-419ca817d591")
+	)
+	(fp_rect
+		(start -3.1 -3)
+		(end 3.1 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "70f71bc8-d63b-4270-bb14-493e8a340aed")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "c785d03a-8a42-42ee-8121-d1069e7ed4f0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -2.125 0)
+		(size 2.25 5.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.104167)
+		(uuid "447f6d38-e683-49d5-9347-abc8b40b74c6")
+	)
+	(pad "2" smd roundrect
+		(at 2.125 0)
+		(size 2.25 5.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.104167)
+		(uuid "71cd19d0-c9bc-4d5f-b818-8f308dc5e590")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Cenker_CKCS6045.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
